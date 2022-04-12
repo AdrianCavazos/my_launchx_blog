@@ -1,6 +1,6 @@
 baseURL = "https://adriancavazos.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje de Adrian Cavazos"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
