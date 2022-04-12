@@ -7,6 +7,8 @@ description: 'Te voy a contar mi travesia en Launch-X'
 Quiero contarte todo lo que he aprendido:
 - Python
 - Jupyter Notebook
+- Git
+- GitHub
 - HTML
 - CSS
 - JS
